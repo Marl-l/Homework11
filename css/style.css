@@ -176,6 +176,7 @@ img {
    width: 33.3%;
    flex-grow: 1;
    position: relative;
+   overflow: hidden;
 }
 
 .col-icon img {
@@ -214,7 +215,7 @@ img {
 .text-block {
    background: #fff;
    min-height: 400px;
-   padding: 56px 66px 42px;
+   padding: 52px 62px 40px;
    display: flex;
    align-items: center;
    justify-content: center;
